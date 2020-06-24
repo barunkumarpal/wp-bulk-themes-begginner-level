@@ -1,0 +1,31 @@
+/*
+Theme Name : Learn Web Code One
+Author : Brad with Barun
+Version : 1.0.0
+
+*/
+
+header{
+    background: #000;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+header a{
+    text-decoration: none;
+    color: #fff;
+}
+
+article.post-content{
+    border-bottom: 1px dotted rgb(99, 98, 98);
+}
+article.post-content:last-of-type{
+    border: 0;
+}
+
+footer{
+    background: rgb(0, 0, 0);
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
